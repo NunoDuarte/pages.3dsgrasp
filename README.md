@@ -1,4 +1,4 @@
-# Action Alignment from Gaze Cues in Human-Human and Human-Robot Interaction
+# 3DSGrasp: 3D Shape-completion for robotic grasp
 
 ## Acknowledgments
 Parts of this project page were adopted from the [Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) and [Nerfies](https://nerfies.github.io/) page.
